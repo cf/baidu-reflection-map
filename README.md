@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" src="https://github.com/cf/baidu-reflection-map/raw/master/baidu-demo.gif" alt="Demo">
+  <img width="460" height="300" src="https://github.com/cf/baidu-reflection-map/raw/master/baidu-demo.gif" alt="Demo">
 </p>
 
 
